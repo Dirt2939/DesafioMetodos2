@@ -1,5 +1,5 @@
 /*
- * Crie um método com nome de mostrarMaior(), este método recebe
+ * 1. Crie um método com nome de mostrarMaior(), este método recebe
  * por parâmetro três números inteiros e imprime o maior deles.
  */
 package desafio8;

@@ -1,5 +1,5 @@
 /*
- * Crie um método com nome de converteMaiusculaEConta(), este
+ * 2. Crie um método com nome de converteMaiusculaEConta(), este
  * método recebe por parâmetro uma variável String e torna ela em
  * maiúscula em seguida mostra na mesma saída a quantidade de
  * caracteres que esta variável possui.
